@@ -19,25 +19,13 @@
 <!--Intro start-->
 <ul>
 <li>
-<p>🔭 I’m currently working on <strong>AWS, React, React Native, Nodejs, MongoDB</strong></p>
+<p>🔭 I’m currently working on <strong>Docker, C++, Python, HTML, and CSS</strong></p>
 </li>
 <li>
-<p>🌱 I’m currently learning <strong>to put together multiple Hyper Beast Stack for Scalable Applications.</strong></p>
+<p>🌱 I’m currently learning <strong>how to code in parallel in Go, C++, and Python.</strong></p>
 </li>
 <li>
-<p>☁️ I’ve keen interest in cloud computing. So,I’m learning <strong>AWS</strong></p>
-</li>
-<li>
-<p>📝 I regularly write articles on <a href="https://1010nishant.hashnode.dev/">Hashnode</a></p>
-</li>
-<li>
-<p>💬 Ask me about <strong>AWS, react, react-native, nodejs, mongoDB</strong></p>
-</li>
-<li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">nishantjangid6377@gmail.com</a></strong></p>
-</li>
-<li>
-<p>🏠 Also We’ve a tech community called <a href="https://discord.com/invite/p4TWyft886">Dev Hac</a>.</p>
+<p>💬 Ask me about <strong>Python, C++, and Go</strong></p>
 </li>
 </ul>
 <!--Intro end-->
