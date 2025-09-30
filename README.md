@@ -9,4 +9,4 @@ I am a senior at Concord University majoring in Computer science with a concentr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=APBosma&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=APBosma&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=5)
+![](https://github-trophies.vercel.app/?username=APBosma&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=8)
