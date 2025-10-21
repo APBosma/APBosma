@@ -6,8 +6,6 @@ I am a senior at Concord University majoring in Computer science with a concentr
 # 📊GitHub Stats :
 | <a href="https://github.com/APBosma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=APBosma&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="Adele's github stats" /></a> | <a href="https://github.com/APBosma/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=APBosma&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
-![](https://github-readme-streak-stats.herokuapp.com/?user=APBosma&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=APBosma&theme=vision-friendly-dark&hide_border=false)
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=APBosma&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=8)
